@@ -1,2 +1,2 @@
-# MovieBite-Home-Page
-MovieBite Home Page
+# MovieBite
+Website
